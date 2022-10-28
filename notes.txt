@@ -1,0 +1,13 @@
+#Module con rotuing
+ng generate module modules/favorites --routing
+
+
+#Generar componente
+ ng g c modules/favorites/pages/FavotitePage
+ ng g c modules/history/pages/HistoryPage
+ ng g c modules/auth/pages/AuthPage
+  ng g c modules/tracks/pages/TrackPage
+
+
+
+ Create 
